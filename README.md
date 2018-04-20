@@ -24,6 +24,12 @@
 3. 商品主图隔壁
 4. 商品评论
 
+亲爱的，请用[支付宝APP](https://auth.alipay.com/login/index.htm)先扫红包码，然后如果你想打赏的话可以用红包给我打赏<br/>
+
+![](https://raw.githubusercontent.com/hunterhug/rabbit/master/file/red/red.png)<br/>
+
+![](https://raw.githubusercontent.com/hunterhug/rabbit/master/file/red/red1.png)
+
 ## 使用 
 
 请先安装Golang环境，拉下代码： `go get github.com/hunterhug/GoTaobao`
